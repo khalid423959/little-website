@@ -1,0 +1,25 @@
+.form input{
+    padding: 8px 10px;
+    width: 40%;
+    border: 2px solid rgb(238, 11, 151);
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+.form{
+    background-color: grey;
+    width: 30%;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 6px 5px rgb(96, 250, 35) ;
+}
+.form button{
+    background-color: rgb(10, 60, 75);
+    padding: 5px 10px;
+    font-size: 12px;
+    color: white;
+    cursor: pointer;
+}
+.form h1{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Dancing Script', cursive;
+}
